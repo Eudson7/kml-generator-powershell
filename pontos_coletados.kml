@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Pontos Coletados - Gerado em 24/08/2025 17:06:31</name>
+    <description>Gerado por KML Generator PowerShell</description>
+    <Placemark>
+      <name>Rio Branco</name>
+      <description>Coordenadas: -67.82430, -9.97499</description>
+      <Point>
+        <coordinates>-67.82430,-9.97499,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Maceio</name>
+      <description>Coordenadas: -35.73500, -9.66599</description>
+      <Point>
+        <coordinates>-35.73500,-9.66599,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Macapa</name>
+      <description>Coordenadas: -51.06640, 0.03890</description>
+      <Point>
+        <coordinates>-51.06640,0.03890,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Manaus</name>
+      <description>Coordenadas: -60.02120, -3.11866</description>
+      <Point>
+        <coordinates>-60.02120,-3.11866,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Salvador</name>
+      <description>Coordenadas: -38.50110, -12.97180</description>
+      <Point>
+        <coordinates>-38.50110,-12.97180,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Fortaleza</name>
+      <description>Coordenadas: -38.54330, -3.71722</description>
+      <Point>
+        <coordinates>-38.54330,-3.71722,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Brasilia</name>
+      <description>Coordenadas: -47.92970, -15.77970</description>
+      <Point>
+        <coordinates>-47.92970,-15.77970,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Vitoria</name>
+      <description>Coordenadas: -40.31280, -20.31550</description>
+      <Point>
+        <coordinates>-40.31280,-20.31550,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Goiania</name>
+      <description>Coordenadas: -49.25390, -16.67860</description>
+      <Point>
+        <coordinates>-49.25390,-16.67860,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Sao Luis</name>
+      <description>Coordenadas: -44.30280, -2.52972</description>
+      <Point>
+        <coordinates>-44.30280,-2.52972,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Cuiaba</name>
+      <description>Coordenadas: -56.09670, -15.59610</description>
+      <Point>
+        <coordinates>-56.09670,-15.59610,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Campo Grande</name>
+      <description>Coordenadas: -54.64640, -20.44280</description>
+      <Point>
+        <coordinates>-54.64640,-20.44280,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Belo Horizonte</name>
+      <description>Coordenadas: -43.93780, -19.92080</description>
+      <Point>
+        <coordinates>-43.93780,-19.92080,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Belem</name>
+      <description>Coordenadas: -48.50390, -1.45583</description>
+      <Point>
+        <coordinates>-48.50390,-1.45583,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Joao Pessoa</name>
+      <description>Coordenadas: -34.86410, -7.11500</description>
+      <Point>
+        <coordinates>-34.86410,-7.11500,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Curitiba</name>
+      <description>Coordenadas: -49.27310, -25.42780</description>
+      <Point>
+        <coordinates>-49.27310,-25.42780,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Recife</name>
+      <description>Coordenadas: -34.90000, -8.05000</description>
+      <Point>
+        <coordinates>-34.90000,-8.05000,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Teresina</name>
+      <description>Coordenadas: -42.80190, -5.08917</description>
+      <Point>
+        <coordinates>-42.80190,-5.08917,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Rio de Janeiro</name>
+      <description>Coordenadas: -43.17290, -22.90680</description>
+      <Point>
+        <coordinates>-43.17290,-22.90680,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Natal</name>
+      <description>Coordenadas: -35.20940, -5.79500</description>
+      <Point>
+        <coordinates>-35.20940,-5.79500,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Porto Alegre</name>
+      <description>Coordenadas: -51.23000, -30.03310</description>
+      <Point>
+        <coordinates>-51.23000,-30.03310,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Porto Velho</name>
+      <description>Coordenadas: -63.90390, -8.76194</description>
+      <Point>
+        <coordinates>-63.90390,-8.76194,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Boa Vista</name>
+      <description>Coordenadas: -60.67330, 2.81972</description>
+      <Point>
+        <coordinates>-60.67330,2.81972,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Florianopolis</name>
+      <description>Coordenadas: -48.54800, -27.59540</description>
+      <Point>
+        <coordinates>-48.54800,-27.59540,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Sao Paulo</name>
+      <description>Coordenadas: -46.63610, -23.54750</description>
+      <Point>
+        <coordinates>-46.63610,-23.54750,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Aracaju</name>
+      <description>Coordenadas: -37.07170, -10.91110</description>
+      <Point>
+        <coordinates>-37.07170,-10.91110,0</coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Palmas</name>
+      <description>Coordenadas: -48.32770, -10.16750</description>
+      <Point>
+        <coordinates>-48.32770,-10.16750,0</coordinates>
+      </Point>
+    </Placemark>  </Document>
+</kml>
